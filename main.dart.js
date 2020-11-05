@@ -48764,8 +48764,8 @@ J:function(a,b){var s=null,r=K.aV(b).a3,q=B.dS(r.a),p=B.dS(r.b),o=B.dS(r.c),n=B.
 q=X.a2y(s,R.ZY(i,h,f,g,q,p,o,n,m,l,B.dS(r.cx),k,j))
 return new S.ps(M.a2n(s,new U.va(s)),q,s)}}
 A.v0.prototype={
-J:function(a,b){var s=null,r=X.a1_(C.nH,new D.jU("https://github.com/piotrszpruta/portfolio-source/blob/master/assets/resources/background.jpg")),q=P.a8B(5,5),p=P.aY(C.G.av(25.5),158,158,158),o=t.fQ
-return M.l5(s,new T.vH(new T.vj(q,M.l5(C.Z,T.a0T(H.d([M.l5(s,s,s,s,new S.dp(s,X.a1_(C.nG,new D.jU("https://github.com/piotrszpruta/portfolio-source/blob/master/assets/resources/pic.jpg")),s,s,s,s,C.b3),190,s,s,190),new T.ew(C.uF,T.a1i(L.r2("Piotr Szpruta",s,s,A.iH(s,s,C.j,s,s,s,s,s,s,s,s,80,s,C.b8,s,s,!0,s,s,s,s,s,s)),C.d5),s),T.mi(s,20,s),new T.ew(C.uH,T.a1i(L.r2("Student & Developer",s,s,A.iH(s,s,C.j,s,s,s,s,s,s,s,s,25,s,C.l2,s,s,!0,s,s,s,s,s,s)),C.d5),s),T.mi(s,20,s),T.a9U(H.d([N.a1j(Z.a1g(C.uW,C.j,40),100,new A.GO()),N.a1j(Z.a1g(C.uV,C.j,40),s,new A.GP())],o),C.fN,C.m5,C.jF)],o),C.fN,C.m5),p,s,s,s,s,s,s),s),s),s,s,new S.dp(C.j,r,s,s,s,s,C.a5),s,s,s,s)}}
+J:function(a,b){var s=null,r=X.a1_(C.nH,new D.jU("https://raw.githubusercontent.com/piotrszpruta/portfolio-source/master/assets/resources/background.jpg")),q=P.a8B(5,5),p=P.aY(C.G.av(25.5),158,158,158),o=t.fQ
+return M.l5(s,new T.vH(new T.vj(q,M.l5(C.Z,T.a0T(H.d([M.l5(s,s,s,s,new S.dp(s,X.a1_(C.nG,new D.jU("https://raw.githubusercontent.com/piotrszpruta/portfolio-source/master/assets/resources/pic.jpg")),s,s,s,s,C.b3),190,s,s,190),new T.ew(C.uF,T.a1i(L.r2("Piotr Szpruta",s,s,A.iH(s,s,C.j,s,s,s,s,s,s,s,s,80,s,C.b8,s,s,!0,s,s,s,s,s,s)),C.d5),s),T.mi(s,20,s),new T.ew(C.uH,T.a1i(L.r2("Student & Developer",s,s,A.iH(s,s,C.j,s,s,s,s,s,s,s,s,25,s,C.l2,s,s,!0,s,s,s,s,s,s)),C.d5),s),T.mi(s,20,s),T.a9U(H.d([N.a1j(Z.a1g(C.uW,C.j,40),100,new A.GO()),N.a1j(Z.a1g(C.uV,C.j,40),s,new A.GP())],o),C.fN,C.m5,C.jF)],o),C.fN,C.m5),p,s,s,s,s,s,s),s),s),s,s,new S.dp(C.j,r,s,s,s,s,C.a5),s,s,s,s)}}
 A.GO.prototype={
 $0:function(){$.GE().lh("open",["https://github.com/piotrszpruta"])},
 $S:0}
