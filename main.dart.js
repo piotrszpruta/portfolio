@@ -49436,8 +49436,8 @@ L:function(a,b){var s=null,r=K.aM(b).a8,q=B.dU(r.a),p=B.dU(r.b),o=B.dU(r.c),n=B.
 q=X.a3j(s,R.a_F(i,h,f,g,q,p,o,n,m,l,B.dU(r.cx),k,j))
 return new S.py(M.a39(s,new U.vf(s)),q,s)}}
 A.v5.prototype={
-L:function(a,b){var s=null,r=X.a1I(C.nT,new L.kS("resources/background.jpg")),q=P.a9v(5,5),p=P.aP(C.G.av(25.5),158,158,158),o=t.fQ
-return M.l5(s,new T.vN(new T.vp(q,M.l5(C.a2,T.a1B(H.d([M.l5(s,s,s,s,new S.dq(s,X.a1I(C.nS,new L.kS("resources/pic.jpg")),s,s,s,s,C.b7),190,s,s,190),new T.es(C.uM,T.a21(L.ra("Piotr Szpruta",s,s,A.iK(s,s,C.j,s,s,s,s,s,s,s,s,80,s,C.bd,s,s,!0,s,s,s,s,s,s)),C.eI),s),T.mm(s,20,s),new T.es(C.uO,T.a21(L.ra("Student & Developer",s,s,A.iK(s,s,C.j,s,s,s,s,s,s,s,s,25,s,C.l6,s,s,!0,s,s,s,s,s,s)),C.eI),s),T.mm(s,20,s),T.aaN(H.d([N.a22(Z.a2_(C.v3,C.j,40),100,new A.Hb()),N.a22(Z.a2_(C.v2,C.j,40),s,new A.Hc())],o),C.ha,C.m9,C.jO)],o),C.ha,C.m9),p,s,s,s,s,s,s),s),s),s,s,new S.dq(C.j,r,s,s,s,s,C.a5),s,s,s,s)}}
+L:function(a,b){var s=null,r=X.a1I(C.nT,new L.kS("background.jpg")),q=P.a9v(5,5),p=P.aP(C.G.av(25.5),158,158,158),o=t.fQ
+return M.l5(s,new T.vN(new T.vp(q,M.l5(C.a2,T.a1B(H.d([M.l5(s,s,s,s,new S.dq(s,X.a1I(C.nS,new L.kS("pic.jpg")),s,s,s,s,C.b7),190,s,s,190),new T.es(C.uM,T.a21(L.ra("Piotr Szpruta",s,s,A.iK(s,s,C.j,s,s,s,s,s,s,s,s,80,s,C.bd,s,s,!0,s,s,s,s,s,s)),C.eI),s),T.mm(s,20,s),new T.es(C.uO,T.a21(L.ra("Student & Developer",s,s,A.iK(s,s,C.j,s,s,s,s,s,s,s,s,25,s,C.l6,s,s,!0,s,s,s,s,s,s)),C.eI),s),T.mm(s,20,s),T.aaN(H.d([N.a22(Z.a2_(C.v3,C.j,40),100,new A.Hb()),N.a22(Z.a2_(C.v2,C.j,40),s,new A.Hc())],o),C.ha,C.m9,C.jO)],o),C.ha,C.m9),p,s,s,s,s,s,s),s),s),s,s,new S.dq(C.j,r,s,s,s,s,C.a5),s,s,s,s)}}
 A.Hb.prototype={
 $0:function(){$.H2().lh("open",["https://github.com/piotrszpruta"])},
 $S:3}
